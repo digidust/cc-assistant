@@ -2,7 +2,12 @@
 
 Compile-run C/C++ source code and execute Makefile in Atom.
 
+## Introduction
 
+## Credits
+
+This repository is a derivative work from "GCC Make Run Package" by Tam Lau (http://atom.io/packages/gcc-make-run).
+Thanks Tom!
 
 ## Preface
 
